@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-na-bitkoiny-s-momentalnym-d3b13.github.io
+Sitemap: https://kazino-na-bitkoiny-s-momentalnym-d3b13.github.io/sitemap.xml
